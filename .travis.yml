@@ -1,3 +1,6 @@
+os:
+  - linux
+  - linux-ppc64le
 language: bash
 sudo: false
 script: make test
